@@ -18,7 +18,7 @@ if (index.Length > 2)
     }
     else 
     {
-    Console.WriteLine("-> третьей цифры нет");
+    Console.WriteLine("Третьей цифры нет. Ввели цифру меньше 100.");
     }
 
 
